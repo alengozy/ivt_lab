@@ -7,10 +7,6 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.projectKey>alengozy_ivt_lab</sonar.projectKey>
-  		<sonar.organization>alengozy</sonar.organization>
-  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>56d41a5b350c28d613b489515f33d1982b3cba06</sonar.login>
 	</properties>
 
 	<dependencies>
